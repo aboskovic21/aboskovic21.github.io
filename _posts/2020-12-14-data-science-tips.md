@@ -33,10 +33,10 @@ With object not found errors, though, that probably means you cleaned your envir
 
 I also have some quick miscellaneous tips that I swear by but don't really merit a whole blurb.
 
-1. **Check your spelling!** Make sure you spell your variable names and function names right. It sounds silly, but I've made that mistake plenty of times and kicked myself when I figured out the problem after 15 minutes.
+**1. Check your spelling!** Make sure you spell your variable names and function names right. It sounds silly, but I've made that mistake plenty of times and kicked myself when I figured out the problem after 15 minutes.
 
-2. **Make your code readable and pretty.** Instad of manually going through and spacing, you can do this quickly with R Styler. Install `styler` using `install.packages(styler)`. Highlight the code chunk you want to style. Then, you should be able to go to "Addins" at the top of your R window, which opens a dropdown. Under the "Styler" section, click "Style selection." Boom! Readable code!
+**2. Make your code readable and pretty.** Instad of manually going through and spacing, you can do this quickly with R Styler. Install `styler` using `install.packages(styler)`. Highlight the code chunk you want to style. Then, you should be able to go to "Addins" at the top of your R window, which opens a dropdown. Under the "Styler" section, click "Style selection." Boom! Readable code!
 
-3. **Set the right directory.** R won't be happy if you aren't working in the "right place," so make sure you're working in the directory where your file is located. Want to do that quickly? At the top of the R window, click Session --> Set working directory --> To source file location. Done! You can even check that it worked with `getwd(file_name)`.
+**3. Set the right directory.** R won't be happy if you aren't working in the "right place," so make sure you're working in the directory where your file is located. Want to do that quickly? At the top of the R window, click Session --> Set working directory --> To source file location. Done! You can even check that it worked with `getwd(file_name)`.
 
-4. **Keyboard shortcuts.** To run code, you can just hit *command* + *return* on Mac or *control* + *enter* on Windows. You can even highlight multiple lines and then use that sequence to run multiple lines! To make a new code chunk, use *command* + *option* + *I* on Mac or *control* + *alt* + *I* on Windows. These arehuge time savers in the long run!
+**4. Keyboard shortcuts.** To run code, you can just hit *command* + *return* on Mac or *control* + *enter* on Windows. You can even highlight multiple lines and then use that sequence to run multiple lines! To make a new code chunk, use *command* + *option* + *I* on Mac or *control* + *alt* + *I* on Windows. These arehuge time savers in the long run!
