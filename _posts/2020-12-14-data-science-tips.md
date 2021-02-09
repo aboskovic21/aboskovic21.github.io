@@ -18,10 +18,10 @@ In your environment, you should be able to see the "type" of each object you cre
 
 You might be wondering where the coding errors come into play here, then. Let's think about this with an exmaple. Suppose we have a dataset where one of our variables indicates gender with "M" or "F," but the variable type of that column is a character. If we want to make a bar graph to show frequency of genders, then we're going to run into some problems! R is going to give us an error because it doesn't know how to make a bar graph with characters. It needs a specific variable type in this case: a factor. Luckily, this problem is easy to solve because we can just make the whole column a factor with the `as.factor()` function. Then, we can use this new *mutated* column to make our graph!
 
-Basically, if you're getting some variable type error, try this workflow
-1. `as.____()`, where the blank represents what you're trying to transform your column into. You can do this with a call to `mutate()`. 
-2. Check that your column is actually the type you want it to be. Try typing `typeof(dataset$column)` into the console, where "dataset" and "column" are the names of the dataset and column of interest, respectively.
-3. If the call to `typeof()` gave you the type you wanted, you're all set. If not, that's weird. Try googling it! 
+Basically, if you're getting some variable type error, try this workflow:
+- `as.____()`, where the blank represents what you're trying to transform your column into. You can do this with a call to `mutate()`. 
+- Check that your column is actually the type you want it to be. Try typing `typeof(dataset$column)` into the console, where "dataset" and "column" are the names of the dataset and column of interest, respectively.
+- If the call to `typeof()` gave you the type you wanted, you're all set. If not, that's weird. Try googling it! 
 
 ## 3. Object/Function not Found
 
