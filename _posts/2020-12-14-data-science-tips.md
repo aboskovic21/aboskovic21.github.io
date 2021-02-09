@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Intro to Debugging
 
 This fall, I had a lot of fun TA-ing Data Science (STAT 231) at Amherst. The course was taught in R, and, understandably, students who were using R for the first time struggled with debugging errors. I'm writing this short post about debugging code in R to help people get started. Note that I'll assume some basic working knowledge of R, [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html), and dplyr (`mutate()`, `select()`, etc.) 
