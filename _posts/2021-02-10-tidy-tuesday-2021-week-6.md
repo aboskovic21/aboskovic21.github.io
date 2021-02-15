@@ -4,8 +4,7 @@ This week, I did my first [Tidy Tuesday](https://github.com/rfordatascience/tidy
 
 I mainly looked at wealth inequality by race over time, as shown below. There's a huge disparity in the lifetime earnings by race, and this gap has widened over the past forty years. Even though the US has made progress since the early 2000s, there's still a lot more work to be done to close that gap!
 
-![image](https://github.com/aboskovic21/tidy_tuesday/blob/main/2021/plot.jpg?raw=true)
 
-<img src="https://github.com/aboskovic21/tidy_tuesday/blob/main/2021/plot.jpg?raw=true" width="300" height="300">
+<img src="https://github.com/aboskovic21/tidy_tuesday/blob/main/2021/plot.jpg?raw=true" width="500" height="500">
 
 My code is available [here](https://github.com/aboskovic21/tidy_tuesday/blob/main/2021/week6.Rmd) if you're interested!
