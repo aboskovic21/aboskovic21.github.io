@@ -11,3 +11,5 @@ When I ran the `unique()` function to see which countries were in the dataset, I
 I know that looks pretty bad, but trust me, it looked even worse before I took the log for the color scaling. I couldn't leave on that note, though, so I hurriedly made a bar graph of the same information. Ordering the countries by total plastic worked pretty well - at least better than the map! 
 
 <img src = "https://github.com/aboskovic21/tidy_tuesday/blob/main/2021/plastic.jpg" width="600" height="500">
+
+Thanks for reading! If you're interested, check out my code [here](https://github.com/aboskovic21/tidy_tuesday/blob/main/2021/week5.Rmd).
