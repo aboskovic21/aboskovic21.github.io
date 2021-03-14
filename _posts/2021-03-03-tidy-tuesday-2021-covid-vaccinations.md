@@ -4,7 +4,7 @@ This week with RLadies, we looked at [vaccinations data](https://github.com/owid
 
 The hardest part of this week was figuring out which vaccination statistics we wanted to look at because the dataset included median vaccination rate and other vaccination rate information. 
 
-<img src = "https://raw.githubusercontent.com/aboskovic21/tidy_tuesday/main/2021/vaccine_plot.jpg">
+<img src = "https://raw.githubusercontent.com/aboskovic21/tidy_tuesday/main/2021/vaccine_plot.jpg" width="600" height="500">
 
 My code is available [here](https://github.com/aboskovic21/tidy_tuesday/blob/main/2021/week7.Rmd).
 
