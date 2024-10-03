@@ -3,6 +3,9 @@ body {
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif'; /* Add this line */
 }
+div.blurb {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif'; /* Ensures the same font as body */
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
