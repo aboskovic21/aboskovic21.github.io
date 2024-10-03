@@ -1,17 +1,10 @@
-body {
+body, .blurb, .teaching-experience, p {
     margin: 60px auto;
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif'; 
-}
-div.blurb {
-    margin: 60px auto;
-    width: 70%;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif'; 
-}
-div.teaching-experience { 
-    margin: 60px auto;
-    width: 70%;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif'; 
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -33,11 +26,6 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
