@@ -1,12 +1,17 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif'; /* Add this line */
+    font-family:'Helvetica', 'Arial', 'Sans-Serif'; 
 }
 div.blurb {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif'; /* Ensures the same font as body */
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif'; 
+}
+div.teaching-experience { 
+    margin: 60px auto;
+    width: 70%;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif'; 
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
