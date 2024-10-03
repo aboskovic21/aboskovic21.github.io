@@ -4,6 +4,8 @@ body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif'; /* Add this line */
 }
 div.blurb {
+    margin: 60px auto;
+    width: 70%;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif'; /* Ensures the same font as body */
 }
 nav ul, footer ul {
